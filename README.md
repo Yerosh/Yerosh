@@ -1,26 +1,58 @@
 <h1 align="center">Hi 👋, I'm Yernur Adilbek</h1>
-<h3 align="center">Junior iOS Developer | Swift, SwiftUI, UIKit</h3>
+<h3 align="center">Junior iOS Developer | Swift, UIKit, SwiftUI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yerosh&label=Profile%20views&color=0e75b6&style=flat" alt="yerosh" /> </p>
+---
 
-- 🔭 I’m currently working on [CoffeeGo](https://github.com/Yerosh/CoffeeGo)
+### 💻 About Me
+- iOS Developer with 3+ years of learning experience  
+- Focused on building real-world mobile applications  
+- Skilled in Swift, UIKit, SwiftUI, MVVM  
+- Interested in clean architecture and networking  
+- 🔍 Open to Junior iOS Developer / Internship opportunities  
 
-- 📫 How to reach me **adilbekernur@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yernur-adilbek-b97105301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yernur-adilbek-b97105301" height="30" width="40" /></a>
-</p>
+### 🚀 Projects
 
-<h3 align="left">Languages and Tools:</h3>
+**☕ CoffeeGo – Coffee Ordering App**  
+- Built with Swift, UIKit, MVVM  
+- Firebase integration for backend  
+- Multi-language support (RU / EN)  
+- AI-generated assets (icons & images)  
+👉 https://github.com/Yerosh/CoffeeGo
 
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="50"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></td>
-</tr>
-</table>
+---
+
+### 🛠 Skills
+
+**Languages & Frameworks:**  
+Swift, UIKit, SwiftUI  
+
+**Architecture:**  
+MVVM, MVC  
+
+**Networking:**  
+REST API, JSON  
+
+**Tools & Services:**  
+Firebase, Git, Xcode, Postman  
+
+---
+
+### 📫 Contact Me
+
+- Email: adilbekernur@gmail.com  
+- Telegram: https://t.me/adilbeckY  
+- LinkedIn: https://www.linkedin.com/in/yernur-adilbek-b97105301  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yerosh&show_icons=true)
+
+---
+
+### ⚡ Currently
+- Working on improving iOS architecture and networking skills  
+- Building and refining pet-projects  
