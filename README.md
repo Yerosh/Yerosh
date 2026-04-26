@@ -16,12 +16,11 @@
 
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/></td>
-<td><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/main/public/logos/realm.svg" width="30"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="50"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></td>
 </tr>
 </table>
